@@ -1,5 +1,9 @@
 # Musculoskeletal Radiographs Abnormality Classifier
 
+I was not able to reproduce the results promised in the paper in either pytorch or tensorflow. I wrote the authors several months ago and did not hear back. 
+
+Unforunately, it looks like the authors have also since deleted a link to the previously released data without explanation. Several researchers have reached out to me for the data so I have re-uploaded it [here](https://drive.google.com/open?id=1XAsP0vLo4O07lgLBznMihawLl1h-Prny). Hopefully another will be able to reproduce the results.
+
 ## Experiments
 
 | Network                | Accuracy (encounter) | Precision (encounter) | Recall (encounter) | F1 (encounter) | Kappa (encounter) |
